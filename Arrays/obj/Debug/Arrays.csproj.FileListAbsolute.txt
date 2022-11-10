@@ -1,0 +1,6 @@
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Arrays\bin\Debug\Arrays.dll
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Arrays\obj\Debug\Arrays.dll
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Arrays\obj\Debug\Arrays.pdb
